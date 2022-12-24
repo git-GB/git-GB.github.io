@@ -34,7 +34,7 @@ github_username:  git-GB
 theme: minima
 plugins:
   - jekyll-feed
-remote_theme: jekyll/minima 
+remote_theme: minima
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -4,10 +4,9 @@ title: "My Portfolio"
 permalink: /portfolio/
 ---
 *A page for my data science projects.This page is just a test projects.*
-*This is just a test page and im in thee process of learning fullstack development./n*
+*This is just a test page and im in thee process of learning fullstack development.*
 
-*I decided to start by working on a partfolio with static sites and [Jekyll] is by far the easiest one to start with.*
----
+*I decided to start on a partfolio static-site and [Jekyll] is by far the easiest one to start with.*
 
 # Data science git projects
 - [SpaceX vs NASA Comparison using R](https://github.com/git-GB/crypto_analysis)

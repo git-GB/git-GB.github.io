@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "GB PORTFOLIO"
+title: "My Portfolio"
 permalink: /portfolio/
 ---
 
-# WELCOME TO MY PORTFOLIO
+# Data science Projects
+
+* [SpaceX vs NASA Comparison using R](https://github.com/git-GB/crypto_analysis)
+

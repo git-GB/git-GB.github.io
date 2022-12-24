@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "GB PORTFOLIO"
-permalink: /
+permalink: /portfolio
 ---
 
 # WELCOME TO MY PORTFOLIO
